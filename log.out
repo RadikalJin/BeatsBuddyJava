@@ -1,0 +1,1044 @@
+Logging test! Sun Nov 23 21:22:18 GMT 2014
+View created Sun Nov 23 21:22:18 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 21:22:18 GMT 2014
+dbf created Sun Nov 23 21:22:18 GMT 2014
+Logging test! Sun Nov 23 21:23:12 GMT 2014
+View created Sun Nov 23 21:23:12 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 21:23:12 GMT 2014
+dbf created Sun Nov 23 21:23:12 GMT 2014
+Logging test! Sun Nov 23 21:24:37 GMT 2014
+View created Sun Nov 23 21:24:38 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 21:24:38 GMT 2014
+dbf created Sun Nov 23 21:24:38 GMT 2014
+Logging test! Sun Nov 23 21:25:28 GMT 2014
+View created Sun Nov 23 21:25:28 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 21:25:28 GMT 2014
+dbf created Sun Nov 23 21:25:28 GMT 2014
+Logging test! Sun Nov 23 21:26:38 GMT 2014
+View created Sun Nov 23 21:26:38 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 21:26:38 GMT 2014
+dbf created Sun Nov 23 21:26:38 GMT 2014
+[#document: null]
+Dom created Sun Nov 23 21:26:38 GMT 2014
+Controller is class com.joe.Controller
+inside controller parseDocument
+[#document: null]
+Logging test! Sun Nov 23 21:27:41 GMT 2014
+View created Sun Nov 23 21:27:41 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 21:27:41 GMT 2014
+dbf created Sun Nov 23 21:27:41 GMT 2014
+[#document: null]
+Dom created Sun Nov 23 21:27:41 GMT 2014
+Controller is class com.joe.Controller
+inside controller parseDocument
+[#document: null]
+Logging test! Sun Nov 23 21:56:05 GMT 2014
+View created Sun Nov 23 21:56:05 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 21:56:05 GMT 2014
+dbf created Sun Nov 23 21:56:05 GMT 2014
+[#document: null]
+Dom created Sun Nov 23 21:56:05 GMT 2014
+Controller is class com.joe.Controller
+inside controller parseDocument
+[#document: null]
+Logging test! Sun Nov 23 22:12:46 GMT 2014
+View created Sun Nov 23 22:12:46 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 22:12:46 GMT 2014
+dbf created Sun Nov 23 22:12:46 GMT 2014
+[#document: null]
+Dom created Sun Nov 23 22:12:46 GMT 2014
+Controller is class com.joe.Controller
+inside controller parseDocument
+
+Logging test! Sun Nov 23 22:24:53 GMT 2014
+View created Sun Nov 23 22:24:53 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 22:24:53 GMT 2014
+dbf created Sun Nov 23 22:24:53 GMT 2014
+Logging test! Sun Nov 23 22:26:29 GMT 2014
+View created Sun Nov 23 22:26:29 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 22:26:29 GMT 2014
+dbf created Sun Nov 23 22:26:29 GMT 2014
+Element created
+Logging test! Sun Nov 23 22:28:01 GMT 2014
+View created Sun Nov 23 22:28:01 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 22:28:01 GMT 2014
+dbf created Sun Nov 23 22:28:01 GMT 2014
+Element created
+Logging test! Sun Nov 23 22:29:37 GMT 2014
+View created Sun Nov 23 22:29:37 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 22:29:37 GMT 2014
+dbf created Sun Nov 23 22:29:37 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+Just before return statement
+Logging test! Sun Nov 23 22:30:53 GMT 2014
+View created Sun Nov 23 22:30:53 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 22:30:53 GMT 2014
+dbf created Sun Nov 23 22:30:53 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+looped
+looped
+looped
+Just before return statement
+Logging test! Sun Nov 23 22:32:42 GMT 2014
+View created Sun Nov 23 22:32:42 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 22:32:42 GMT 2014
+dbf created Sun Nov 23 22:32:42 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+Logging test! Sun Nov 23 22:37:41 GMT 2014
+View created Sun Nov 23 22:37:41 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 22:37:41 GMT 2014
+dbf created Sun Nov 23 22:37:41 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+All matching artists returned
+Logging test! Sun Nov 23 22:38:53 GMT 2014
+View created Sun Nov 23 22:38:53 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 22:38:53 GMT 2014
+dbf created Sun Nov 23 22:38:53 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Logging test! Sun Nov 23 23:10:43 GMT 2014
+View created Sun Nov 23 23:10:43 GMT 2014
+Finished creating instance of bean 'beatsBuddy'
+Creating shared instance of singleton bean 'view'
+Creating instance of bean 'view'
+Eagerly caching bean 'view' to allow for resolving potential circular references
+Finished creating instance of bean 'view'
+Creating shared instance of singleton bean 'model'
+Creating instance of bean 'model'
+Eagerly caching bean 'model' to allow for resolving potential circular references
+Invoking init method  'setUpProperties' on bean with name 'model'
+Finished creating instance of bean 'model'
+Creating shared instance of singleton bean 'controller'
+Creating instance of bean 'controller'
+Eagerly caching bean 'controller' to allow for resolving potential circular references
+Finished creating instance of bean 'controller'
+Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@18be83e4]
+Returning cached instance of singleton bean 'lifecycleProcessor'
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+Returning cached instance of singleton bean 'beatsBuddy'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Logging test! Sun Nov 23 23:10:43 GMT 2014
+View created Sun Nov 23 23:10:43 GMT 2014
+Logging test! Sun Nov 23 23:17:35 GMT 2014
+View created Sun Nov 23 23:17:35 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 23:17:35 GMT 2014
+dbf created Sun Nov 23 23:17:35 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Finished creating instance of bean 'beatsBuddy'
+Returning cached instance of singleton bean 'view'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@cb644e]
+Returning cached instance of singleton bean 'lifecycleProcessor'
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+Returning cached instance of singleton bean 'beatsBuddy'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Logging test! Sun Nov 23 23:17:35 GMT 2014
+View created Sun Nov 23 23:17:35 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 23:17:35 GMT 2014
+dbf created Sun Nov 23 23:17:35 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Logging test! Sun Nov 23 23:19:31 GMT 2014
+View created Sun Nov 23 23:19:31 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 23:19:31 GMT 2014
+dbf created Sun Nov 23 23:19:31 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Finished creating instance of bean 'beatsBuddy'
+Returning cached instance of singleton bean 'view'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@3159c4b8]
+Returning cached instance of singleton bean 'lifecycleProcessor'
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+Returning cached instance of singleton bean 'beatsBuddy'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Logging test! Sun Nov 23 23:19:31 GMT 2014
+View created Sun Nov 23 23:19:31 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 23:19:31 GMT 2014
+dbf created Sun Nov 23 23:19:31 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Logging test! Sun Nov 23 23:20:00 GMT 2014
+View created Sun Nov 23 23:20:00 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 23:20:00 GMT 2014
+dbf created Sun Nov 23 23:20:00 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Finished creating instance of bean 'beatsBuddy'
+Returning cached instance of singleton bean 'view'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@3159c4b8]
+Returning cached instance of singleton bean 'lifecycleProcessor'
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+Returning cached instance of singleton bean 'beatsBuddy'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Logging test! Sun Nov 23 23:20:00 GMT 2014
+View created Sun Nov 23 23:20:00 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 23:20:00 GMT 2014
+dbf created Sun Nov 23 23:20:00 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Logging test! Sun Nov 23 23:20:33 GMT 2014
+View created Sun Nov 23 23:20:33 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 23:20:33 GMT 2014
+dbf created Sun Nov 23 23:20:33 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Finished creating instance of bean 'beatsBuddy'
+Returning cached instance of singleton bean 'view'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@3159c4b8]
+Returning cached instance of singleton bean 'lifecycleProcessor'
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+Returning cached instance of singleton bean 'beatsBuddy'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Logging test! Sun Nov 23 23:20:33 GMT 2014
+View created Sun Nov 23 23:20:33 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 23:20:33 GMT 2014
+dbf created Sun Nov 23 23:20:33 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Logging test! Sun Nov 23 23:21:41 GMT 2014
+Artist name is: nails
+View created Sun Nov 23 23:21:41 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 23:21:41 GMT 2014
+dbf created Sun Nov 23 23:21:41 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Finished creating instance of bean 'beatsBuddy'
+Returning cached instance of singleton bean 'view'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@3159c4b8]
+Returning cached instance of singleton bean 'lifecycleProcessor'
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+Returning cached instance of singleton bean 'beatsBuddy'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Logging test! Sun Nov 23 23:21:41 GMT 2014
+Artist name is: nails
+View created Sun Nov 23 23:21:41 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 23:21:41 GMT 2014
+dbf created Sun Nov 23 23:21:41 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Logging test! Sun Nov 23 23:22:14 GMT 2014
+Artist name is: 
+View created Sun Nov 23 23:22:14 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 23:22:14 GMT 2014
+dbf created Sun Nov 23 23:22:14 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Finished creating instance of bean 'beatsBuddy'
+Returning cached instance of singleton bean 'view'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@3159c4b8]
+Returning cached instance of singleton bean 'lifecycleProcessor'
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+Returning cached instance of singleton bean 'beatsBuddy'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Logging test! Sun Nov 23 23:22:14 GMT 2014
+Artist name is: 
+View created Sun Nov 23 23:22:14 GMT 2014
+class com.joe.Model
+got to service layer Sun Nov 23 23:22:14 GMT 2014
+dbf created Sun Nov 23 23:22:14 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Logging test! Mon Nov 24 18:08:46 GMT 2014
+Artist name is: 
+View created Mon Nov 24 18:08:46 GMT 2014
+class com.joe.Model
+got to service layer Mon Nov 24 18:08:46 GMT 2014
+dbf created Mon Nov 24 18:08:46 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Finished creating instance of bean 'beatsBuddy'
+Returning cached instance of singleton bean 'view'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@646d64ab]
+Returning cached instance of singleton bean 'lifecycleProcessor'
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+Returning cached instance of singleton bean 'beatsBuddy'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Logging test! Mon Nov 24 18:08:46 GMT 2014
+Artist name is: Prince
+View created Mon Nov 24 18:08:46 GMT 2014
+class com.joe.Model
+got to service layer Mon Nov 24 18:08:46 GMT 2014
+dbf created Mon Nov 24 18:08:46 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Logging test! Mon Nov 24 18:21:06 GMT 2014
+Artist name is: 
+View created Mon Nov 24 18:21:06 GMT 2014
+class com.joe.Model
+got to service layer Mon Nov 24 18:21:06 GMT 2014
+dbf created Mon Nov 24 18:21:06 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Finished creating instance of bean 'beatsBuddy'
+Returning cached instance of singleton bean 'view'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@59e5ddf]
+Returning cached instance of singleton bean 'lifecycleProcessor'
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+Returning cached instance of singleton bean 'beatsBuddy'
+Logging test! Mon Nov 24 18:21:07 GMT 2014
+Artist name is: Prince
+View created Mon Nov 24 18:21:07 GMT 2014
+class com.joe.Model
+got to service layer Mon Nov 24 18:21:07 GMT 2014
+dbf created Mon Nov 24 18:21:07 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Logging test! Mon Nov 24 18:21:29 GMT 2014
+Artist name is: 
+View created Mon Nov 24 18:21:29 GMT 2014
+class com.joe.Model
+got to service layer Mon Nov 24 18:21:29 GMT 2014
+dbf created Mon Nov 24 18:21:29 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Finished creating instance of bean 'beatsBuddy'
+Returning cached instance of singleton bean 'view'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@59e5ddf]
+Returning cached instance of singleton bean 'lifecycleProcessor'
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+Returning cached instance of singleton bean 'beatsBuddy'
+Logging test! Mon Nov 24 18:21:29 GMT 2014
+Artist name is: Prince
+View created Mon Nov 24 18:21:29 GMT 2014
+class com.joe.Model
+got to service layer Mon Nov 24 18:21:29 GMT 2014
+dbf created Mon Nov 24 18:21:29 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Logging test! Mon Nov 24 18:23:43 GMT 2014
+Artist name is: null
+View created Mon Nov 24 18:23:43 GMT 2014
+class com.joe.Model
+got to service layer Mon Nov 24 18:23:43 GMT 2014
+dbf created Mon Nov 24 18:23:43 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Finished creating instance of bean 'beatsBuddy'
+Returning cached instance of singleton bean 'view'
+Returning cached instance of singleton bean 'model'
+Returning cached instance of singleton bean 'controller'
+Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@4b1c1ea0]
+Returning cached instance of singleton bean 'lifecycleProcessor'
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+Returning cached instance of singleton bean 'beatsBuddy'
+Logging test! Mon Nov 24 18:23:43 GMT 2014
+Artist name is: Prince
+View created Mon Nov 24 18:23:43 GMT 2014
+class com.joe.Model
+got to service layer Mon Nov 24 18:23:43 GMT 2014
+dbf created Mon Nov 24 18:23:43 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Logging test! Mon Nov 24 18:35:51 GMT 2014
+Artist name is: Prince
+View created Mon Nov 24 18:35:51 GMT 2014
+class com.joe.Model
+got to service layer Mon Nov 24 18:35:51 GMT 2014
+dbf created Mon Nov 24 18:35:51 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+No matching artist found
+Logging test! Mon Nov 24 18:36:53 GMT 2014
+Artist name is: Prince
+View created Mon Nov 24 18:36:53 GMT 2014
+class com.joe.Model
+got to service layer Mon Nov 24 18:36:53 GMT 2014
+dbf created Mon Nov 24 18:36:53 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+Matching record found!: Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+All matching artists returned
+Logging test! Mon Nov 24 18:37:24 GMT 2014
+Artist name is: Prince
+View created Mon Nov 24 18:37:24 GMT 2014
+class com.joe.Model
+got to service layer Mon Nov 24 18:37:24 GMT 2014
+dbf created Mon Nov 24 18:37:24 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+Matching record found!: Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+All matching artists returned
+Logging test! Mon Nov 24 18:37:36 GMT 2014
+Artist name is: Prince
+View created Mon Nov 24 18:37:37 GMT 2014
+class com.joe.Model
+got to service layer Mon Nov 24 18:37:37 GMT 2014
+dbf created Mon Nov 24 18:37:37 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+Matching record found!: Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+All matching artists returned
+Logging test! Tue Nov 25 09:50:08 GMT 2014
+Artist name is: Prince
+View created Tue Nov 25 09:50:08 GMT 2014
+class com.joe.Model
+got to service layer Tue Nov 25 09:50:08 GMT 2014
+dbf created Tue Nov 25 09:50:08 GMT 2014
+Element created
+albumNodes retrieved
+If statement entered
+looped
+Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+looped
+Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+looped
+Album details - Artist:Queen, Album Name:Greatest Hits, Release Date:15/08/14. 
+looped
+Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+Just before return statement
+Matching record found!: Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+All matching artists returned
+Artist name is: Prince
+DocumentBuilderFactory created Tue Nov 25 18:37:11 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching record found!: Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+All matching artists returned
+Artist name is: Prince
+DocumentBuilderFactory created Tue Nov 25 18:54:02 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching record found!: Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+All matching artists returned
+Artist name is: Prince
+DocumentBuilderFactory created Wed Nov 26 07:50:03 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching record found!: Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+All matching artists returned
+Artist name is: prince
+Artist name is: prince
+Artist name is: prince
+Artist name is: prince
+Artist name is: prince
+Artist name is: Prince
+Artist name is: Prince
+Artist name is: Prince
+Artist name is: Prince
+DocumentBuilderFactory created Wed Nov 26 08:12:18 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching record found!: Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+All matching artists returned
+Artist name is: Prince
+DocumentBuilderFactory created Thu Nov 27 22:10:23 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching album found!: Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+1 matching albums returned. Thu Nov 27 22:10:23 GMT 2014
+Artist name is: Prince
+DocumentBuilderFactory created Thu Nov 27 22:58:10 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching album found!: Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+1 matching albums returned. Thu Nov 27 22:58:10 GMT 2014
+Artist name is: Prince
+DocumentBuilderFactory created Thu Nov 27 22:59:32 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching album found!: Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+1 matching albums returned. Thu Nov 27 22:59:32 GMT 2014
+Artist name is: Prince
+DocumentBuilderFactory created Thu Nov 27 23:09:41 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching album found!: Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+1 matching albums returned. Thu Nov 27 23:09:41 GMT 2014
+Artist name is: prince
+DocumentBuilderFactory created Thu Nov 27 23:10:15 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching album found!: Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+1 matching albums returned. Thu Nov 27 23:10:15 GMT 2014
+Artist name is: muse
+DocumentBuilderFactory created Thu Nov 27 23:19:59 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching album found!: Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+1 matching albums returned. Thu Nov 27 23:19:59 GMT 2014
+Artist name is: muse
+DocumentBuilderFactory created Thu Nov 27 23:20:58 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching album found!: Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+1 matching albums returned. Thu Nov 27 23:20:58 GMT 2014
+Artist name is: no match
+DocumentBuilderFactory created Fri Nov 28 07:59:48 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+No matching albums found.
+Artist name is: no match
+DocumentBuilderFactory created Fri Nov 28 08:03:16 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+No matching albums found.
+Artist name is: muse
+DocumentBuilderFactory created Fri Nov 28 08:03:37 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching album found!: Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+1 matching albums returned. Fri Nov 28 08:03:37 GMT 2014
+Artist name is: muse
+DocumentBuilderFactory created Fri Nov 28 08:04:30 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching album found!: Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+1 matching albums returned. Fri Nov 28 08:04:30 GMT 2014
+Artist name is: muse
+DocumentBuilderFactory created Fri Nov 28 08:05:29 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching album found!: Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+1 matching albums returned. Fri Nov 28 08:05:29 GMT 2014
+Artist name is: not
+DocumentBuilderFactory created Fri Nov 28 08:05:47 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+No matching albums found.
+Artist name is: hhdjv
+DocumentBuilderFactory created Fri Nov 28 08:06:21 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+No matching albums found.
+Artist name is: 9
+DocumentBuilderFactory created Fri Nov 28 08:06:32 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching album found!: Album details - Artist:9inch Nails, Album Name:Year Zero, Release Date:14/06/07. 
+1 matching albums returned. Fri Nov 28 08:06:32 GMT 2014
+Artist name is: no
+DocumentBuilderFactory created Fri Nov 28 08:17:16 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+No matching albums found.
+Artist name is: muse
+DocumentBuilderFactory created Fri Nov 28 08:17:26 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching album found!: Album details - Artist:Muse, Album Name:Origin of Symmetry, Release Date:01/04/14. 
+1 matching albums returned. Fri Nov 28 08:17:26 GMT 2014
+Artist name is: fred
+DocumentBuilderFactory created Fri Nov 28 10:07:14 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+No matching albums found.
+Artist name is: Prince
+DocumentBuilderFactory created Mon Dec 01 07:54:07 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching album found!: Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+1 matching albums returned. Mon Dec 01 07:54:07 GMT 2014
+Artist name is: Prince
+DocumentBuilderFactory created Mon Dec 01 17:51:52 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching album found!: Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+1 matching albums returned. Mon Dec 01 17:51:52 GMT 2014
+Artist name is: Prince
+DocumentBuilderFactory created Tue Dec 02 07:53:10 GMT 2014
+Element created
+albumNodes retrieved
+AlbumNodes exist
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Iterating through albumNodes
+Matching album found!: Album details - Artist:Prince, Album Name:Purple Rain, Release Date:29/02/14. 
+1 matching albums returned. Tue Dec 02 07:53:10 GMT 2014

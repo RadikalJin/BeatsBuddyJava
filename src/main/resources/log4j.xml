@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
+<!-- 	<logger name="BeatsBuddy"> 
+		<level value="all" /> 
+		<appender-ref ref="mainLog" /> 
+	</logger>	 -->
+	<appender name="mainLog" class="org.apache.log4j.RollingFileAppender">
+		<param name="file" value="./mainLog.log"/>
+		<param name="Append" value="true"/>
+		<layout class="org.apache.log4j.SimpleLayout" /> 
+	</appender> 
+</log4j:configuration>
