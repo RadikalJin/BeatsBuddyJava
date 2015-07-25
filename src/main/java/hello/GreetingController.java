@@ -1,18 +1,19 @@
 package hello;
 
+import com.joe.album.dto.AlbumDto;
+import com.joe.album.service.AlbumService;
+import com.joe.task.dto.TaskDto;
+import com.joe.task.service.TaskService;
+import com.joe.json.JsonResponse;
+import com.joe.json.Person;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.springframework.web.bind.annotation.*;
+
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicLong;
-
-import com.joe.album.dto.AlbumDto;
-import com.joe.album.service.AlbumService;
-import com.joe.task.domain.Task;
-import com.joe.task.dto.TaskDto;
-import com.joe.task.service.TaskService;
-import org.springframework.context.ApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.springframework.web.bind.annotation.*;
 
 @RestController
 public class GreetingController {
@@ -73,7 +74,7 @@ public class GreetingController {
     }
 
     @RequestMapping(value="/createTask", method = {RequestMethod.POST})
-    public String createTask(@RequestBody Task task) {
+    public String createTask(@RequestBody String task) {
         TaskDto taskDto = new TaskDto();
         taskDto.setTitle("Phone hotel");
         taskDto.setDescription("Must remember to reschedule the arrival date to after the announcement.");
@@ -102,4 +103,13 @@ public class GreetingController {
         }
     }
 
+
+    @RequestMapping(value = "/addPerson",
+            method = RequestMethod.POST,
+            headers = {"Content-type=application/json"},
+            produces="application/json")
+    @ResponseBody
+    public JsonResponse addPerson(@RequestBody Person person) {
+        return new JsonResponse("OK","");
+    }
 }

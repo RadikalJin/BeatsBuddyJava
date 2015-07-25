@@ -20,7 +20,7 @@ public class LocalAlbumDaoImpl implements AlbumDao {
 	public static final String BEAN_NAME = "albumsDao";
 
 	private final static Charset ENCODING = StandardCharsets.UTF_8;
-	final Path fFilePath = Paths.get("../BeatsBuddyCoreUnix/src/main/resources/albumsByDate");
+	final Path fFilePath = Paths.get("C:\\Users\\Joseph\\workspace\\BeatsBuddyJava\\BeatsBuddyJava\\src\\main\\resources\\albumsByDate");
 
 	@PersistenceContext
 	private EntityManager em;
